@@ -1,1 +1,1 @@
-readme file
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey!+Welcome+To+My+Profile;I+am+Ukeme;a+student+of+ALX+SE+I+am+passionate+about+coding;Learning+to+become+a+softwear+engineer)](https://git.io/typing-svg)
