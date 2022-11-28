@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey!+Welcome+To+My+Profile;I+am+Ukeme;a+student+of+ALX+SE+I+am+passionate;about+coding;Learning+to+become;A+softwear+engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey!+Welcome+To+My+Profile;I+am+Ukeme;Studying+At+ALX+Softwear+Engineering;I+am+passionate;about+coding;Learning+to+become;A+softwear+engineer)](https://git.io/typing-svg)
